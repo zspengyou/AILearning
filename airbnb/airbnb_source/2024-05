@@ -1,0 +1,45 @@
+{
+    "data": {
+        "patek": {
+            "__typename": "PatekQuery",
+            "getAdditionalReservationData": {
+                "__typename": "PatekAdditionalReservationDataResponse",
+                "reservationResources": [
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMNC2T4BRX",
+                        "hostPayoutFormatted": "$1,501.56"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMRXJ4JYY8",
+                        "hostPayoutFormatted": "$621.96"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMAJXATPQD",
+                        "hostPayoutFormatted": "$1,211.53"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMQ2YDNXPM",
+                        "hostPayoutFormatted": "$2,053.49"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMHXB2NT3D",
+                        "hostPayoutFormatted": "$720.71"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMAEQ58REF",
+                        "hostPayoutFormatted": "$439.41"
+                    }
+                ]
+            }
+        }
+    },
+    "extensions": {
+        "traceId": "fRdCr9a0IkiIJEi9iTI_bg=="
+    }
+}

@@ -1,0 +1,482 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": [
+    {
+      "income": 596.87,
+      "checkin": "2024-09-27 16:00:00",
+      "days": 2,
+      "checkout": "2024-09-29 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 237.81,
+      "checkin": "2024-09-25 16:00:00",
+      "days": 1,
+      "checkout": "2024-09-26 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 3
+    },
+    {
+      "income": 385.25,
+      "checkin": "2024-09-21 16:00:00",
+      "days": 1,
+      "checkout": "2024-09-22 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 339.66,
+      "checkin": "2024-09-20 16:00:00",
+      "days": 1,
+      "checkout": "2024-09-21 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 2
+    },
+    {
+      "income": 365.85,
+      "checkin": "2024-09-14 16:00:00",
+      "days": 1,
+      "checkout": "2024-09-15 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 543.52,
+      "checkin": "2024-09-12 16:00:00",
+      "days": 2,
+      "checkout": "2024-09-14 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 2
+    },
+    {
+      "income": 327.05,
+      "checkin": "2024-09-08 16:00:00",
+      "days": 1,
+      "checkout": "2024-09-09 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5
+    },
+    {
+      "income": 317.35,
+      "checkin": "2024-09-07 16:00:00",
+      "days": 1,
+      "checkout": "2024-09-08 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 404.65,
+      "checkin": "2024-09-06 16:00:00",
+      "days": 1,
+      "checkout": "2024-09-07 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 485.32,
+      "checkin": "2024-09-04 16:00:00",
+      "days": 2,
+      "checkout": "2024-09-06 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 249.45,
+      "checkin": "2024-09-03 16:00:00",
+      "days": 1,
+      "checkout": "2024-09-04 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 3
+    },
+    {
+      "income": 543.52,
+      "checkin": "2024-09-01 16:00:00",
+      "days": 2,
+      "checkout": "2024-09-03 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5
+    },
+
+    {
+      "income": 359.06,
+      "checkin": "2024-08-31 16:00:00",
+      "days": 1,
+      "checkout": "2024-09-01 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 789.09,
+      "checkin": "2024-08-28 16:00:00",
+      "days": 3,
+      "checkout": "2024-08-31 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5
+    },
+    {
+      "income": 901.93,
+      "checkin": "2024-08-24 16:00:00",
+      "days": 5,
+      "checkout": "2024-08-28 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 404.65,
+      "checkin": "2024-08-23 16:00:00",
+      "days": 1,
+      "checkout": "2024-08-24 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 325.11,
+      "checkin": "2024-08-22 16:00:00",
+      "days": 1,
+      "checkout": "2024-08-23 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 312.50,
+      "checkin": "2024-08-20 16:00:00",
+      "days": 1,
+      "checkout": "2024-08-21 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5
+    },
+    {
+      "income": 886.09,
+      "checkin": "2024-08-17 16:00:00",
+      "days": 3,
+      "checkout": "2024-08-20 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 295.04,
+      "checkin": "2024-08-16 16:00:00",
+      "days": 1,
+      "checkout": "2024-08-17 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 297.95,
+      "checkin": "2024-08-15 16:00:00",
+      "days": 1,
+      "checkout": "2024-08-16 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 365.85,
+      "checkin": "2024-08-14 16:00:00",
+      "days": 1,
+      "checkout": "2024-08-15 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 543.52,
+      "checkin": "2024-08-12 16:00:00",
+      "days": 2,
+      "checkout": "2024-08-14 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 2
+    },
+    {
+      "income": 288.25,
+      "checkin": "2024-08-10 16:00:00",
+      "days": 1,
+      "checkout": "2024-08-11 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 346.45,
+      "checkin": "2024-08-08 16:00:00",
+      "days": 1,
+      "checkout": "2024-08-09 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5
+    },
+    {
+      "income": 740.59,
+      "checkin": "2024-08-03 16:00:00",
+      "days": 3,
+      "checkout": "2024-08-06 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 592.02,
+      "checkin": "2024-08-01 16:00:00",
+      "days": 2,
+      "checkout": "2024-08-03 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 653.29,
+      "checkin": "2024-07-29 16:00:00",
+      "days": 3,
+      "checkout": "2024-08-01 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 470.77,
+      "checkin": "2024-07-27 16:00:00",
+      "days": 2,
+      "checkout": "2024-07-29 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5
+    },
+    {
+      "income": 283.40,
+      "checkin": "2024-07-26 16:00:00",
+      "days": 1,
+      "checkout": "2024-07-27 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 740.59,
+      "checkin": "2024-07-23 16:00:00",
+      "days": 3,
+      "checkout": "2024-07-26 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 570.68,
+      "checkin": "2024-07-21 16:00:00",
+      "days": 2,
+      "checkout": "2024-07-23 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 616.27,
+      "checkin": "2024-07-19 16:00:00",
+      "days": 2,
+      "checkout": "2024-07-21 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 804.93,
+      "checkin": "2024-07-15 16:00:00",
+      "days": 5,
+      "checkout": "2024-07-19 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5
+    },
+    {
+      "income": 580.54,
+      "checkin": "2024-07-12 16:00:00",
+      "days": 3,
+      "checkout": "2024-07-15 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 3
+    },
+    {
+      "income": 299.89,
+      "checkin": "2024-07-09 16:00:00",
+      "days": 1,
+      "checkout": "2024-07-10 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 254.30,
+      "checkin": "2024-07-06 16:00:00",
+      "days": 1,
+      "checkout": "2024-07-07 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 3
+    },
+    {
+      "income": 359.06,
+      "checkin": "2024-07-05 16:00:00",
+      "days": 1,
+      "checkout": "2024-07-06 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 317.35,
+      "checkin": "2024-07-04 16:00:00",
+      "days": 1,
+      "checkout": "2024-07-05 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 621.12,
+      "checkin": "2024-07-02 16:00:00",
+      "days": 2,
+      "checkout": "2024-07-04 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5
+    },
+    {
+      "income": 1261.48,
+      "checkin": "2024-06-28 16:00:00",
+      "days": 3,
+      "checkout": "2024-07-01 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 784.24,
+      "checkin": "2024-06-25 16:00:00",
+      "days": 3,
+      "checkout": "2024-06-28 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5
+    },
+    {
+      "income": 365.85,
+      "checkin": "2024-06-22 16:00:00",
+      "days": 1,
+      "checkout": "2024-06-23 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 346.45,
+      "checkin": "2024-06-20 16:00:00",
+      "days": 1,
+      "checkout": "2024-06-21 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 323.17,
+      "checkin": "2024-06-19 16:00:00",
+      "days": 1,
+      "checkout": "2024-06-20 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 2
+    },
+    {
+      "income": 907.43,
+      "checkin": "2024-06-16 16:00:00",
+      "days": 3,
+      "checkout": "2024-06-19 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 656.04,
+      "checkin": "2024-06-14 16:00:00",
+      "days": 2,
+      "checkout": "2024-06-16 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 656.04,
+      "checkin": "2024-06-12 16:00:00",
+      "days": 2,
+      "checkout": "2024-06-14 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 3
+    },
+    {
+      "income": 336.75,
+      "checkin": "2024-06-09 16:00:00",
+      "days": 1,
+      "checkout": "2024-06-10 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 3
+    },
+    {
+      "income": 582.32,
+      "checkin": "2024-06-07 16:00:00",
+      "days": 2,
+      "checkout": "2024-06-09 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+
+    {
+      "income": 1302.05,
+      "checkin": "2024-05-28 16:00:00",
+      "days": 8,
+      "checkout": "2024-06-03 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5,
+      "jay":"May 28 – Jun. 3 (6 nights) 5 guests · $2,053.49, night did not match, day did not either"
+    },
+    {
+      "income": 532.85,
+      "checkin": "2024-05-25 16:00:00",
+      "days": 2,
+      "checkout": "2024-05-27 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    },
+    {
+      "income": 345.48,
+      "checkin": "2024-05-24 16:00:00",
+      "days": 1,
+      "checkout": "2024-05-25 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 929.74,
+      "checkin": "2024-05-17 16:00:00",
+      "days": 3,
+      "checkout": "2024-05-20 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 434.10,
+      "checkin": "2024-05-09 16:00:00",
+      "days": 2,
+      "checkout": "2024-05-11 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 6
+    },
+    {
+      "income": 1031.91,
+      "checkin": "2024-05-03 16:00:00",
+      "days": 5,
+      "checkout": "2024-05-07 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5
+    },
+    {
+      "income": 370.70,
+      "checkin": "2024-04-27 16:00:00",
+      "days": 1,
+      "checkout": "2024-04-28 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 5
+    },
+    {
+      "income": 342.73,
+      "checkin": "2024-04-25 16:00:00",
+      "days": 2,
+      "checkout": "2024-04-27 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 2
+    },
+    {
+      "income": 402.06,
+      "checkin": "2024-04-20 16:00:00",
+      "days": 3,
+      "checkout": "2024-04-23 11:00:00",
+      "platform": "airbnb",
+      "number_of_guests": 4
+    }
+  ],
+  "count": 0
+}

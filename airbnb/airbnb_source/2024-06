@@ -1,0 +1,70 @@
+{
+    "data": {
+        "patek": {
+            "__typename": "PatekQuery",
+            "getAdditionalReservationData": {
+                "__typename": "PatekAdditionalReservationDataResponse",
+                "reservationResources": [
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMN3FFPXQK",
+                        "hostPayoutFormatted": "$843.90"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMN5ZJAA32",
+                        "hostPayoutFormatted": "$1,066.03"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMPCFCE5ET",
+                        "hostPayoutFormatted": "$843.90"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMQ2YDNXPM",
+                        "hostPayoutFormatted": "$2,053.49"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HM4SXXPPAE",
+                        "hostPayoutFormatted": "$430.68"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMWWMX9WX5",
+                        "hostPayoutFormatted": "$770.18"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HM2Q239DWW",
+                        "hostPayoutFormatted": "$459.78"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMQSRN522Y",
+                        "hostPayoutFormatted": "$440.38"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HM3DJDWPWQ",
+                        "hostPayoutFormatted": "$1,543.27"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMN3NHDAWD",
+                        "hostPayoutFormatted": "$417.10"
+                    },
+                    {
+                        "__typename": "PatekReservationResourceData",
+                        "confirmationCode": "HMZQ8RCRWR",
+                        "hostPayoutFormatted": "$1,189.22"
+                    }
+                ]
+            }
+        }
+    },
+    "extensions": {
+        "traceId": "OhijgPRIu1ouXO7QfO9uNQ=="
+    }
+}
