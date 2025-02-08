@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 
 # Function to parse the HTML table and return values for a given column number
-def get_column_values(file_path:str, column_number:int):
+def get_column_values(file_path:str, column_number:int) -> list:
     with open(file_path, 'r', encoding='utf-8') as file:
         html_content = file.read()
 
