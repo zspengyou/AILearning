@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage Summarizer</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 50px; }
+        input, button { padding: 10px; margin: 10px; }
+        #summary { margin-top: 20px; padding: 10px; border: 1px solid #ddd; }
+    </style>
+</head>
+<body>
+
+<h2>Summarize a Webpage</h2>
+<input type="text" id="urlInput" placeholder="Enter webpage URL" size="50">
+<button onclick="summarize()">Summarize</button>
+
+<div id="summary"></div>
+
+<script>
+    async function summarize() {
+        const urlInput = document.getElementById("urlInput").value;
+        const summaryDiv = document.getElementById("summary");
+
+        if (!urlInput) {
+            alert("Please enter a URL");
+            return;
+        }
+
+        summaryDiv.innerHTML = "Summarizing...";
+
+        try {
+            const response = await fetch("https://5dgnllzm6imhiiqcpajvwescum0rgotx.lambda-url.us-east-1.on.aws/", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ url: urlInput })
+            });
+
+            const data = await response.json();
+            summaryDiv.innerHTML = `<strong>Summary:</strong> <p>${data.summary}</p>`;
+        } catch (error) {
+            summaryDiv.innerHTML = "Error fetching summary!";
+            console.error(error);
+        }
+    }
+</script>
+
+</body>
+</html>
