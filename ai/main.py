@@ -55,8 +55,8 @@ def main():
         print("OPENAI_API_KEY environment variable not set")
         return
     # url = input("Enter url to summarize")
-    url = "https://datagubbe.se/endofciv/"
-
+    # url = "https://finance.yahoo.com/news/market-pros-tell-us-why-210001465.html"
+    url = "https://example.com/"
     content = fetch_url_content(url)
     if not content:
         return
